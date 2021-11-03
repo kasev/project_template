@@ -38,8 +38,8 @@ $VENVNAME/bin/python -m ipykernel install --user --name=$VENVNAME
 mkdir data/large_files
 
 # check that it is included in your `.gitignore` file
-echo "/$VENVNAME
-/data/large_files" > .gitignore
+echo "/$VENVNAME/
+/data/large_files/" > .gitignore
 
 ```
 
