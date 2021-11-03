@@ -1,3 +1,3 @@
-/project_venv
-/data/large_files
+venv/
+data/large_files/
 .*
