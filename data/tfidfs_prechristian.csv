@@ -1,0 +1,7 @@
+,Isocrates,Aristotle,Septuaginta,Flavius Josephus,Philo Judaeus,Paul of Tarsus
+Isocrates,1.0,0.50845,0.25758,0.49441,0.57362,0.15754
+Aristotle,0.50845,1.0,0.26054,0.36762,0.63929,0.15322
+Septuaginta,0.25758,0.26054,1.0,0.32254,0.30049,0.32178
+Flavius Josephus,0.49441,0.36762,0.32254,1.0,0.43474,0.23478
+Philo Judaeus,0.57362,0.63929,0.30049,0.43474,1.0,0.17135
+Paul of Tarsus,0.15754,0.15322,0.32178,0.23478,0.17135,1.0

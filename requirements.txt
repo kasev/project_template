@@ -1,0 +1,12 @@
+pandas==1.1.5
+nltk==3.6.2
+gensim==4.0.1
+networkx==2.5.1
+scikit-learn==0.24.2
+
+matplotlib==3.3.4
+plotly==4.14.3
+seaborn==0.11.1
+
+sddk==3.0
+tempun==0.1.3
