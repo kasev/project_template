@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/home/jovyan/project_venv/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "project_venv",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
