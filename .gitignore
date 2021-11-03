@@ -1,1 +1,3 @@
-/ecce_venv\n/data/large_files
+/project_venv
+/data/large_files
+.*
